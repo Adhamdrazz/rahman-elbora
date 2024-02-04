@@ -498,11 +498,11 @@ form button {
     #daytime .daytime-items {
       display: block;
       height: auto;
-      padding: 30px 0;
+      padding: 10px 0;
     }
 
     #daytime .daytime-items .daytime-item {
-      margin-top: 20px;
+      margin-top: 10px;
     }
 
     #contact .contact-info,
